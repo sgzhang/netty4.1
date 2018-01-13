@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netty Project
 
 Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
@@ -61,3 +62,7 @@ are listed below:
 
 Automatic modules do not provide any means to declare dependencies, so you need to list each used module separately
 in your `module-info` file.
+=======
+# netty4.1
+Learning Netty by code.
+>>>>>>> ac0efc0790122482d9396cc3d66891ac3aa2e01a
